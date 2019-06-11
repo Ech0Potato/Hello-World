@@ -214,7 +214,13 @@ static void Display(void)
   sprintf((char*)aTextBuffer, MESSAGE5, uwVoltage, uwMVoltage);
   LCD_DisplayStringLine(LCD_LINE_6, aTextBuffer);
 }
+////////////dfjasdjkfda
 
+
+static void antbcd_ac()
+{
+	jdsjfakl;
+}
 /**
   * @brief  Display Init (LCD)
   * @param  None
